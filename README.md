@@ -1,1 +1,3 @@
 This code implements an agent–environment framework in which a reward function is used to model firing (spiking) activity inspired by real biological neural networks. Experimental data obtained dynamically from in vitro neuronal cultures (culture dishes) are incorporated into the environment. Based on a custom-designed reward function, the agent modulates simulated firing activity. We evaluated a clockwise-streak reward function using both Deep Q-learning and multi-armed bandit (MAB) approaches. In these tests, Deep Q-learning achieved higher cumulative rewards than the bandit-based methods.
+
+This is part of the "AI in Science" hackathon at UChicago, 2025.
